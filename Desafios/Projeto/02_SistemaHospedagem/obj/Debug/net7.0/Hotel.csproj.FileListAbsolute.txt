@@ -1,0 +1,14 @@
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0\Hotel.exe
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0\Hotel.deps.json
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0\Hotel.runtimeconfig.json
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0\Hotel.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0\Hotel.pdb
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.csproj.AssemblyReference.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.AssemblyInfoInputs.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.AssemblyInfo.cs
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.csproj.CoreCompileInputs.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0refint\Hotel.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.pdb
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaHospedagem\obj\Debug\net7.0Hotel.genruntimeconfig.cache

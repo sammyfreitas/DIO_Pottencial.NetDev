@@ -1,0 +1,15 @@
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.csproj.AssemblyReference.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.AssemblyInfoInputs.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.AssemblyInfo.cs
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.csproj.CoreCompileInputs.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.exe
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.deps.json
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.runtimeconfig.json
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.pdb
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\refint\Projeto Dio.dll
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.pdb
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\Projeto Dio.genruntimeconfig.cache
+D:\_Sammy\_Estudo\6. Bootcamps\FINALIZADOS\DIO - Pottencial .Net Developer\Desafios\Projeto\SistemaEstacionamento\obj\Debug\net7.0\ref\Projeto Dio.dll
