@@ -1,0 +1,68 @@
+@model IEnumerable<AgendamentoTarefas.Models.Tarefa>
+
+@{
+    ViewData["Title"] = "Tarefas";
+}
+
+<h2>Tarefas</h2>
+
+<form asp-action="ObterPorStatus">
+    <div class="form-inline">
+        <select class="form-select" name="Status" id="Status" aria-label="Default select example" onchange="this.form.submit()">
+                <option disabled selected> -- Selecione um Status -- </option>
+                <option value="Pendente">Pendente</option>
+                <option value="Realizando">Realizando</option>
+                <option value="Finalizado">Finalizado</option>
+        </select>
+    </div>
+</form>
+<br>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                @Html.DisplayFor(model => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Status)
+                </td>
+                <td>
+                    <a asp-action="Atualizar" asp-route-id="@item.Id" class="btn btn-primary"><span class="glyphicon glyphicon-pencil"></span></a> 
+                    <a asp-action="ObterPorId" asp-route-id="@item.Id" class="btn btn-info"><span class="glyphicon glyphicon-th-list"></span></a> 
+                    <a asp-action="Deletar" asp-route-id="@item.Id"class="btn btn-danger"><span class="glyphicon glyphicon-remove"></span></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
