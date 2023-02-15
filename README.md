@@ -2,14 +2,14 @@
 
 https://web.dio.me/track/35a4e967-50e1-4140-a858-a6c8f63904c4
 
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png"/></div>
+
+
 O Pottencial .NET Developer é o bootcamp para profissionais que buscam aperfeiçoar suas habilidades em desenvolvimento back-end com .NET e C#, e querem ganhar mais confiança no desenvolvimento de projetos. Uma trilha completa em .NET, Banco de Dados SQL e projetos práticos que te preparam para atuar em grandes cases de mercado. Ao final do programa, você ainda ficará disponível para o processo seletivo da Pottencial, maior insurtech do Brasil, com vagas full remotas.
 
-  ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
+      ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
 
-* 32 cursos
-* 6 desafios de projeto
-* 2 desafios de código
-* 1 live
+    * 32 cursos * 6 desafios de projeto * 2 desafios de código * 1 live
 
 ## Prepare-se para a Jornada (4 atividades)
 * Curso: Boas-vindas ao Bootcamp: Pottencial .NET Developer |  Básico / 肋 1 hrs
